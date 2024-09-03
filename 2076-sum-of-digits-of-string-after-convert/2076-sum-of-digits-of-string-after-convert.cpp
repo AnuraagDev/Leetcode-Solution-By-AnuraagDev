@@ -3,10 +3,10 @@ public:
     int getLucky(string q, int k) {
         string s = "";
         
-        // Convert each character in q to its corresponding numeric value
+   
         for (auto i : q) {
             int num = i - 'a' + 1;
-            s += to_string(num);  // Concatenate numeric values as string
+            s += to_string(num); 
         }
         
         while (k-- > 0) {
