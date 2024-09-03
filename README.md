@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
