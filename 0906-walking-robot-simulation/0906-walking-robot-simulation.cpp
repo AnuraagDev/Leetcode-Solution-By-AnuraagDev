@@ -7,20 +7,16 @@ public:
             mp[key]++;
         }
         vector<vector<int>>direc = {{-1,0},{0,1},{1,0},{0,-1}}; 
-        // according to order W N E S
 
-        int dir = 1; // i.e. north 
-        // 0: west, 1: north, 2: east, 3: south
+        int dir = 1; 
         int x=0,y=0;
         int mxDist=0;
         for(int it:commands){
             if(it==-2){
-                // move left
                 if(dir==0) dir = 3;
                 else dir--;
             }
             else if(it==-1){
-                // move right
                 dir = (dir+1)%4;
             }
             else{
@@ -31,7 +27,7 @@ public:
                     
                     string key = to_string(newX)+"+"+to_string(newY);
                     if(mp.find(key)!=mp.end()){
-                        // obstacle has been found so don't go there
+                      
                         break;
                     }
                     x = newX, y=newY;
