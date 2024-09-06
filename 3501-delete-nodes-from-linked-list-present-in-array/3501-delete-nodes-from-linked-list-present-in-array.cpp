@@ -9,14 +9,14 @@ public:
         while (curr != nullptr) {
             if (a.count(curr->val)) {
                 if (prev != nullptr) {
-                    prev->next = curr->next;  // bypass current node
+                    prev->next = curr->next;  
                 } else {
-                    head = curr->next;  // update head if the first node is to be removed
+                    head = curr->next;  
                 }
-                curr = curr->next;  // move to the next node after deletion
+                curr = curr->next;
             } else {
-                prev = curr;  // move prev to current node
-                curr = curr->next;  // move to the next node
+                prev = curr;  
+                curr = curr->next; 
             }
         }
         
