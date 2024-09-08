@@ -19,14 +19,13 @@ public:
         vector<ListNode*> ans(k, {});
         int beginIdx=0, endIdx;
         
-        //Consider only the heads & tails for ans[i]
         for (int i=0; i<k; i++) {
             beginIdx=(i==0) ? 0:beginIdx+iLen[i-1];
             endIdx=(iLen[i]==0)?beginIdx:beginIdx+iLen[i]-1;
             ans[i]=node[beginIdx];
             ListNode* last = node[endIdx];
             if (last) 
-                last->next = NULL; // Remove the link
+                last->next = NULL; 
         }       
         return ans;
     }
