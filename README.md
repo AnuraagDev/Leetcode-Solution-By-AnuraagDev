@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0198-house-robber) |
 ## Hash Table
@@ -111,8 +113,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
