@@ -1,33 +1,28 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>edge(numCourses);
-        vector<int>indegree(numCourses);
-        int n=prerequisites.size();
+        vector<vector<int>>adj(numCourses);
         for(int i=0;i<prerequisites.size();i++){
-            edge[prerequisites[i][1]].push_back(prerequisites[i][0]);
+            adj[prerequisites[i][0]].push_back(prerequisites[i][1]);
         }
-        for(int i=0;i<edge.size();i++){
-            for(auto j:edge[i]){
-                indegree[j]++;
+        vector<int>degree(numCourses,0);
+        for(int i=0;i<adj.size();i++){
+            for(int j=0;j<adj[i].size();j++){
+               degree[adj[i][j]]++;
             }
         }
         queue<int>q;
-        for(int i=0;i<indegree.size();i++){
-            if(indegree[i]==0)q.push(i);
+        for(int i=0;i<degree.size();i++){
+            if(!degree[i])q.push(i);
         }int count=0;
         while(!q.empty()){
             int d=q.front();
-            q.pop();
-            count++;
-            for(auto j:edge[d]){
-                indegree[j]--;
-                if(!indegree[j]){
-                    q.push(j);
-                }
+            q.pop();count++;
+            for(auto i:adj[d]){
+                degree[i]--;
+                if(degree[i]==0)q.push(i);
             }
         }return count==numCourses;
-       
-        }
         
+    }
 };
