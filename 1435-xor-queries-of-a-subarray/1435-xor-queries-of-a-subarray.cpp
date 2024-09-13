@@ -12,17 +12,11 @@ public:
         int n = arr.size();
         vector<int> xorpre(n);
         xorpre[0] = arr[0];
-        
-        // Compute the prefix XOR array
         for (int i = 1; i < n; ++i) {
             xorpre[i] = xorpre[i - 1] ^ arr[i];
         }
-
-        // Pre-allocate memory for the results
         vector<int> ans;
         ans.reserve(queries.size());
-
-        // Process each query
         for (int j = 0; j < queries.size(); ++j) {
             int left = queries[j][0];
             int right = queries[j][1];
