@@ -1,23 +1,38 @@
+#include <vector>
+#include <iostream>
+using namespace std;
+
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-    ios::sync_with_stdio(false);
-    ios_base::sync_with_stdio(false);
-    ios::sync_with_stdio(false);
-    cout.tie(nullptr);
-    cin.tie(nullptr);
-        vector<int>xorpre(arr.size());
-        xorpre[0]=arr[0];
-        for(int i=1;i<arr.size();i++)
-        {
-            xorpre[i]=xorpre[i-1]^arr[i];
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+        
+        int n = arr.size();
+        vector<int> xorpre(n);
+        xorpre[0] = arr[0];
+        
+        // Compute the prefix XOR array
+        for (int i = 1; i < n; ++i) {
+            xorpre[i] = xorpre[i - 1] ^ arr[i];
         }
-        vector<int>ans;
-        for(auto i:queries){
-            if(i[0]==0)ans.push_back(xorpre[i[1]]);
-            else{
-                ans.push_back(xorpre[i[1]]^xorpre[i[0]-1]);
+
+        // Pre-allocate memory for the results
+        vector<int> ans;
+        ans.reserve(queries.size());
+
+        // Process each query
+        for (int j = 0; j < queries.size(); ++j) {
+            int left = queries[j][0];
+            int right = queries[j][1];
+            if (left == 0) {
+                ans.push_back(xorpre[right]);
+            } else {
+                ans.push_back(xorpre[right] ^ xorpre[left - 1]);
             }
-        }return ans;
+        }
+        
+        return ans;
     }
 };
