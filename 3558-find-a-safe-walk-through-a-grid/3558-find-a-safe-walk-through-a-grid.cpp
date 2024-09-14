@@ -7,16 +7,16 @@ class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
         int m = grid.size();
-        if (m == 0) return false; // Edge case for empty grid
+        if (m == 0) return false; 
         int n = grid[0].size();
         
         vector<pair<int, int>> directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
         vector<vector<int>> visited(m, vector<int>(n, -1));
         
         queue<pair<int, int>> q;
-        int starting_health = health - grid[0][0]; // Deduct the health cost from starting point
+        int starting_health = health - grid[0][0];
         
-        if (starting_health <= 0) return false; // Can't proceed if health becomes 0 or negative at start
+        if (starting_health <= 0) return false; 
         q.push({0, 0});
         visited[0][0] = starting_health;
         
