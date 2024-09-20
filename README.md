@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0214-shortest-palindrome) |
+| [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Number Theory
 |  |
@@ -199,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
