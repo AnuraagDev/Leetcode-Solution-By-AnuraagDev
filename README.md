@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
