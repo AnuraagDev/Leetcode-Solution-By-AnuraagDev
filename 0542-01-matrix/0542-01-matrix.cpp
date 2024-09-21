@@ -1,28 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+        int n=mat.size();
+        int m=mat[0].size();
         queue<pair<int,int>>q;
-        int n=mat.size(),m=mat[0].size();
-
         vector<vector<int>>ans(n,vector<int>(m,INT_MAX));
-        int arr[4][2]={{0,1},{0,-1},{1,0},{-1,0}};
+        int dir[4][2]={{0,1},{0,-1},{1,0},{-1,0}};
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(!mat[i][j]){
+                if(mat[i][j]==0){
                     ans[i][j]=0;
                     q.push({i,j});
                 }
             }
         }
         while(!q.empty()){
-            auto s=q.front();
+            auto d=q.front();
             q.pop();
+            int x=d.first;
+            int y=d.second;
             for(int i=0;i<4;i++){
-                int x_new=s.first+arr[i][0];
-                int y_new=s.second+arr[i][1];
+                int x_new=x+dir[i][0];
+                int y_new=y+dir[i][1];
                 if(x_new>=0&&y_new>=0&&x_new<n&&y_new<m){
-                    if(ans[x_new][y_new]>ans[s.first][s.second]+1){
-                        ans[x_new][y_new]=ans[s.first][s.second]+1;
+                    if(ans[x_new][y_new]>ans[x][y]+1){
+                        ans[x_new][y_new]=ans[x][y]+1;
                         q.push({x_new,y_new});
                     }
                 }
