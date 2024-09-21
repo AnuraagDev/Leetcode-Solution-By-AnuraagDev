@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
+| [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0214-shortest-palindrome) |
+| [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 ## Hash Function
 |  |
 | ------- |
