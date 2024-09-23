@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
+| [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0542-01-matrix) |
+| [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
+| [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -221,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
