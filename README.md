@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0084-largest-rectangle-in-histogram) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
