@@ -1,3 +1,9 @@
+char speedUp = [] {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    return 'z';
+}();
 class MyCalendar {
 public:
 char speedUp = [] {
