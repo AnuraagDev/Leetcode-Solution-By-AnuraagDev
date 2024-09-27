@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0729-my-calendar-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0542-01-matrix) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
 ## Trie
 |  |
