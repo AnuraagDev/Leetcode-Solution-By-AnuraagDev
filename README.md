@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0198-house-robber) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
