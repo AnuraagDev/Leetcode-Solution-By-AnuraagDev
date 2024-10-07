@@ -1,22 +1,19 @@
 class Solution {
 public:
     vector<string> letterCasePermutation(string s) {
-        set<string>su;
-        solve(0,s,su);
-        return vector<string>(su.begin(),su.end());
+     set<string>ans;
+     solve(0,ans,s);   
+     return vector<string>(ans.begin(),ans.end());
     }
-    void solve(int i,string& s,set<string>&su){
+    void solve(int i,set<string>&ans,string &s){
         if(i==s.length()){
-            su.insert(s);return;
+            ans.insert(s);
+            return;
         }
-        if(isdigit(s[i])){
-            solve(i+1,s,su);
-        }
-        else{
-            s[i]=tolower(s[i]);
-            solve(i+1,s,su);
-            s[i]=toupper(s[i]);
-            solve(i+1,s,su);
-        }
+        if(isdigit(s[i]))solve(i+1,ans,s);
+        s[i]=toupper(s[i]);
+        solve(i+1,ans,s);
+        s[i]=tolower(s[i]);
+        solve(i+1,ans,s);
     }
 };
