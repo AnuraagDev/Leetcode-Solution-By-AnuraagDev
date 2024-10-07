@@ -323,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
