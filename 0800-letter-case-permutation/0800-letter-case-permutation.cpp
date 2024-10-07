@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<string> letterCasePermutation(string s) {
-     set<string>ans;
+    unordered_set<string>ans;
      solve(0,ans,s);   
      return vector<string>(ans.begin(),ans.end());
     }
-    void solve(int i,set<string>&ans,string &s){
+    void solve(int i,unordered_set<string>&ans,string &s){
         if(i==s.length()){
             ans.insert(s);
             return;
