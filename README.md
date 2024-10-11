@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0906-walking-robot-simulation) |
+| [1708-design-parking-system](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1708-design-parking-system) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1708-design-parking-system](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Linked List
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0731-my-calendar-ii) |
+| [1708-design-parking-system](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1708-design-parking-system) |
 ## Segment Tree
 |  |
 | ------- |
