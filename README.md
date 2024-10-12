@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -353,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1908-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
