@@ -4,6 +4,7 @@ public:
         queue<pair<string,int>>q;
 
         unordered_set<string>se(wordList.begin(),wordList.end());
+        if(se.find(endWord)==se.end())return 0;
         q.push({beginWord,1});
         while(!q.empty()){
             string word=q.front().first;
