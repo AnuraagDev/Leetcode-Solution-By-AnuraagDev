@@ -1,7 +1,10 @@
 class Solution {
 public:
+vector<int>dp;
+Solution():dp(31,-1){}
     int fib(int n) {
         if(n<=1)return n;
-        return fib(n-1)+fib(n-2);
+        if(dp[n]!=-1)return dp[n];
+        return dp[n]=fib(n-1)+fib(n-2);
     }
 };
