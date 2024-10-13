@@ -1,10 +1,15 @@
 class Solution {
 public:
-vector<int>dp;
-Solution():dp(31,-1){}
     int fib(int n) {
-        if(n<=1)return n;
-        if(dp[n]!=-1)return dp[n];
-        return dp[n]=fib(n-1)+fib(n-2);
+        if(n<2)return n;
+        int initial=0;
+        int initial2=1;
+        int ans=0;
+        for(int i=2;i<=n;i++){
+            ans=initial+initial2;
+            initial=initial2;
+            initial2=ans;
+        }
+        return ans;
     }
 };
