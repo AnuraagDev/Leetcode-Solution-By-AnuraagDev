@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Union Find
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
