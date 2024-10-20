@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
