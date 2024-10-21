@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0075-sort-colors) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0119-pascals-triangle-ii) |
