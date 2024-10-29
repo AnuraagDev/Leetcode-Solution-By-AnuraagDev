@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2032-largest-odd-number-in-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
