@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0240-search-a-2d-matrix-ii) |
 | [0729-my-calendar-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0729-my-calendar-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
