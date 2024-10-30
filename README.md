@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0906-walking-robot-simulation) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0542-01-matrix) |
+| [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
+| [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -453,5 +456,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
