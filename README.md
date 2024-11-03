@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
+| [0812-rotate-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0812-rotate-string) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 ## Hash Function
 |  |
