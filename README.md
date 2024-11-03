@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0906-walking-robot-simulation) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0264-ugly-number-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Recursion
