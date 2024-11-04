@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0455-assign-cookies) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
