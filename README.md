@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0213-house-robber-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
 ## Enumeration
