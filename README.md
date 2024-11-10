@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
+| [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
+| [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0729-my-calendar-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0731-my-calendar-ii) |
+| [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
