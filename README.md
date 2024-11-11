@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3291-find-if-array-can-be-sorted) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2487-optimal-partition-of-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
