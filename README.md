@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0670-maximum-swap) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0260-single-number-iii) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1435-xor-queries-of-a-subarray) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1667-find-kth-bit-in-nth-binary-string) |
