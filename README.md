@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
