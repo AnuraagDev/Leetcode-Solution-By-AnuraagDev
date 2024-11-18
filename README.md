@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1940-maximum-xor-for-each-query) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
+| [1755-defuse-the-bomb](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1755-defuse-the-bomb) |
 ## Database
 |  |
 | ------- |
