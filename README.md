@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2487-optimal-partition-of-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2487-optimal-partition-of-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Database
 |  |
 | ------- |
