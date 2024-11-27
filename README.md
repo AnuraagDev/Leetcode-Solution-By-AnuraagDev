@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2487-optimal-partition-of-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1755-defuse-the-bomb) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Database
