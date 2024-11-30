@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0820-find-eventual-safe-states) |
+| [2201-valid-arrangement-of-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0820-find-eventual-safe-states) |
+| [2201-valid-arrangement-of-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
