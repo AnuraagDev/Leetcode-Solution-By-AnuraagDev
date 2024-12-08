@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
