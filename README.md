@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0906-walking-robot-simulation) |
+| [1022-unique-paths-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0787-sliding-puzzle) |
+| [1022-unique-paths-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0260-single-number-iii) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
