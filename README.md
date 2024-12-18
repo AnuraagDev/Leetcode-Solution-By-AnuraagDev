@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1694-make-sum-divisible-by-p) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0085-maximal-rectangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Graph
 |  |
 | ------- |
