@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0179-largest-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0152-maximum-product-subarray) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0257-binary-tree-paths) |
