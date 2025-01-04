@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1121-partition-array-for-maximum-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
+| [1121-partition-array-for-maximum-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
