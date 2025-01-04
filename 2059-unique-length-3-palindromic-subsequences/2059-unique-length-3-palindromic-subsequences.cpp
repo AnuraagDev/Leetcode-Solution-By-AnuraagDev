@@ -9,8 +9,8 @@ public:
             while (r >= 0 && s[r] != a) --r;
             if (l < r) {
                 vector<bool> seen(26, false);
-                for (int i = l + 1; i < r; ++i) {
-                    seen[s[i] - 'a'] = true;
+                for (int i = l+1;i<r;++i) {
+                    seen[s[i]-'a'] = true;
                 }
                 res += count(seen.begin(), seen.end(), true);
             }
