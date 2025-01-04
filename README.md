@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1694-make-sum-divisible-by-p) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1755-defuse-the-bomb](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2554-minimum-total-distance-traveled](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
