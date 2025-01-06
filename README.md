@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2201-valid-arrangement-of-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2803-modify-graph-edge-weights](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2803-modify-graph-edge-weights) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2803-modify-graph-edge-weights](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2803-modify-graph-edge-weights) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Recursion
 |  |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2803-modify-graph-edge-weights](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2803-modify-graph-edge-weights) |
 ## Eulerian Circuit
 |  |
 | ------- |
