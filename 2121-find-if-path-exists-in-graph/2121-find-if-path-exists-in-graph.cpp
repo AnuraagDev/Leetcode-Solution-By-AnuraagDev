@@ -1,3 +1,4 @@
+//Bro why the hell I have to add these to get better runtime :) Your Anuraagdev
 #pragma GCC optimize("O3", "unroll-loops")
 
 const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
