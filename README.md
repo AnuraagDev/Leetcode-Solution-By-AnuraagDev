@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1619-path-crossing](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1619-path-crossing) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1524-string-matching-in-an-array) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 ## Hash Function
 |  |
