@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-unique-paths-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1708-design-parking-system](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1708-design-parking-system) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0820-find-eventual-safe-states) |
+| [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2121-find-if-path-exists-in-graph) |
@@ -611,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2121-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
