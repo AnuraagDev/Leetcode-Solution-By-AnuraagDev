@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
