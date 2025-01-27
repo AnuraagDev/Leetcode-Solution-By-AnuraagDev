@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0131-palindrome-partitioning) |
