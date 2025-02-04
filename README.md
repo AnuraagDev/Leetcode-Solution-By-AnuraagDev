@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0337-house-robber-iii) |
 | [0494-target-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0542-01-matrix) |
+| [0688-knight-probability-in-chessboard](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0806-domino-and-tromino-tiling) |
 | [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
