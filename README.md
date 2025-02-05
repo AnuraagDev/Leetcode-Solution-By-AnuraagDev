@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1708-design-parking-system](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
