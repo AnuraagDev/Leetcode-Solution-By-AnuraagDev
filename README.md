@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1972-rotating-the-box](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2089-maximum-matrix-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2107-find-unique-binary-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2487-optimal-partition-of-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2487-optimal-partition-of-string) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0800-letter-case-permutation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2107-find-unique-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
 |  |
