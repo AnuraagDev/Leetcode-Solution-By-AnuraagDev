@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0040-combination-sum-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
