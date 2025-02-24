@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0733-flood-fill) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
