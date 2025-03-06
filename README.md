@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1971-incremental-memory-leak](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1971-incremental-memory-leak) |
 | [2032-largest-odd-number-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
