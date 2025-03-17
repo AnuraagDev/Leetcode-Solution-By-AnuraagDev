@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1121-partition-array-for-maximum-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-unique-paths-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1121-partition-array-for-maximum-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
