@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1197-parsing-a-boolean-expression) |
