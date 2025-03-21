@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2393-match-substring-after-replacement](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2393-match-substring-after-replacement) |
 | [2487-optimal-partition-of-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2487-optimal-partition-of-string) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1916-find-center-of-star-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2803-modify-graph-edge-weights) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Bit Manipulation
 |  |
 | ------- |
