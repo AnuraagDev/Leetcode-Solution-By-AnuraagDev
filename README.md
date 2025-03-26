@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2690-house-robber-iv](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2690-house-robber-iv) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2487-optimal-partition-of-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2201-valid-arrangement-of-pairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2803-modify-graph-edge-weights) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
