@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2155-find-missing-observations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
