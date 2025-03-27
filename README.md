@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2792-neighboring-bitwise-xor) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3227-find-missing-and-repeated-values) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
