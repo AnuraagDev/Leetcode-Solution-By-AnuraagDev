@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3291-find-if-array-can-be-sorted) |
