@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [2262-solving-questions-with-brainpower](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2755-extra-characters-in-a-string) |
