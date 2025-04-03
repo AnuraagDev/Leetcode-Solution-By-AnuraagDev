@@ -1,24 +1,23 @@
 class Solution {
-public:vector<vector<int>>ans;
+public:
+vector<vector<int>>ans;
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int>freq(nums.size(),0);
-        vector<int>d;
-        solve(freq,nums,d);
+        unordered_set<int>se;
+        vector<int>s;
+        solve(se,nums,s);
         return ans;
     }
-    void solve(vector<int>&frq,vector<int>&nums,vector<int>&d){
-        if(d.size()==nums.size()){
-            ans.push_back(d);
+    void solve(unordered_set<int>&se,vector<int>&nums,vector<int>&a){
+        if(a.size()==nums.size()){
+            ans.push_back(a);
             return;
         }
-        for(int ind=0;ind<nums.size();ind++){
-            if(!frq[ind]){
-                frq[ind]=1;
-                d.push_back(nums[ind]);
-                solve(frq,nums,d);
-                d.pop_back();
-                frq[ind]=0;
-            }
-        }
+       for(int i=0;i<nums.size();i++){ if(!se.count(nums[i])){
+            se.insert(nums[i]);
+            a.push_back(nums[i]);
+            solve(se,nums,a);
+            se.erase(nums[i]);
+            a.pop_back();
+        }}
     }
 };
