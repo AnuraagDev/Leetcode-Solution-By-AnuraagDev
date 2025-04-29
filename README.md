@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0680-valid-palindrome-ii) |
