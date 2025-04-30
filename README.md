@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1511-count-number-of-teams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1511-count-number-of-teams) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1971-incremental-memory-leak](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1971-incremental-memory-leak) |
