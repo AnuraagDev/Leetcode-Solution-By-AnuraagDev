@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0682-baseball-game) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0731-my-calendar-ii) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0225-implement-stack-using-queues) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
