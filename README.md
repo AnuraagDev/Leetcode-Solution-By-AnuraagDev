@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3451-string-compression-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
