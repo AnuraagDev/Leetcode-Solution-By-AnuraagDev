@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0264-ugly-number-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -770,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0096-unique-binary-search-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
