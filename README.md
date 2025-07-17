@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0074-search-a-2d-matrix) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0127-word-ladder) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0127-word-ladder) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/AnuraagDev/Leetcode-Solution-By-AnuraagDev/tree/master/0147-insertion-sort-list) |
